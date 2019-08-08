@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/02 10:22:29.000.315,=C:\Users\icaro.cassiolato\Desktop\gt\IcarusFramework\Unit1.pas</Transaction>
+    <Transaction>2019/08/02 10:29:12.000.371,C:\Users\icaro.cassiolato\Desktop\gt\IcarusFramework\Outros\uConstrutorSQL.pas=C:\Users\icaro.cassiolato\Desktop\gt\IcarusFramework\Unit1.pas</Transaction>
+    <Transaction>2019/08/02 14:24:49.000.159,=C:\Users\icaro.cassiolato\Desktop\gt\IcarusFramework\Unit1.pas</Transaction>
+    <Transaction>2019/08/02 14:26:35.000.423,C:\Users\icaro.cassiolato\Desktop\gt\IcarusFramework\Unit1.pas=C:\Users\icaro.cassiolato\Desktop\gt\IcarusFramework\Outros\uAtributosCustomizados.pas</Transaction>
+    <Transaction>2019/08/08 09:21:35.000.526,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Vestibular.dproj=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\IcarusFramework.dproj</Transaction>
+    <Transaction>2019/08/08 09:21:50.000.552,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Outros\UsuarioSingleton.pas</Transaction>
+    <Transaction>2019/08/08 09:22:53.000.394,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Outros\UsuarioSingleton.pas</Transaction>
+    <Transaction>2019/08/08 09:23:10.000.612,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Outros\uUsuarioSingleton.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Outros\UsuarioSingleton.pas</Transaction>
+    <Transaction>2019/08/08 09:23:28.000.017,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\Login.pas</Transaction>
+    <Transaction>2019/08/08 09:23:32.000.710,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\uLogin.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\Login.pas</Transaction>
+    <Transaction>2019/08/08 09:23:32.000.710,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\uLogin.fmx=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\Login.fmx</Transaction>
+    <Transaction>2019/08/08 09:52:49.000.722,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uCidade.pas=</Transaction>
+    <Transaction>2019/08/08 09:52:56.000.874,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uEstado.pas=</Transaction>
+    <Transaction>2019/08/08 09:54:17.000.952,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uEstado.pas</Transaction>
+    <Transaction>2019/08/08 09:54:17.000.934,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uCidade.pas</Transaction>
+    <Transaction>2019/08/08 10:00:27.000.897,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:00:48.000.590,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\uPrincipal.fmx=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.fmx</Transaction>
+    <Transaction>2019/08/08 10:00:48.000.590,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Kernel\Visual\uPrincipal.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:09:14.000.999,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:10:03.000.466,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Visual\uNotaVestibularVisual.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:10:03.000.466,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Visual\uNotaVestibularVisual.fmx=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.fmx</Transaction>
+    <Transaction>2019/08/08 10:13:42.000.324,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:16:32.000.835,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uNotaVestibular.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:17:13.000.863,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:18:04.000.053,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uVestibular.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:19:55.000.778,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uNotaAluno.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Modelo\uNotaVestibular.pas</Transaction>
+    <Transaction>2019/08/08 10:27:22.000.482,=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas</Transaction>
+    <Transaction>2019/08/08 10:27:55.000.253,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.fmx=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Visual\uVestibularVisual.fmx</Transaction>
+    <Transaction>2019/08/08 10:27:55.000.253,C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Unit1.pas=C:\Users\icaro.cassiolato\Desktop\gt\Vestibular\Cliente\Cadastros\Visual\uVestibularVisual.pas</Transaction>
+  </Transactions>
+</BorlandProject>

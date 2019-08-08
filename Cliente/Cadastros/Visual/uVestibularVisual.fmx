@@ -1,0 +1,16 @@
+inherited VestibularFrm: TVestibularFrm
+  Caption = 'PaiFrm1'
+  DesignerMasterStyle = 0
+  inherited PnlAreaCadastro: TPanel
+    object EdtData: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Position.X = 16.000000000000000000
+      Position.Y = 40.000000000000000000
+      Size.Width = 153.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TextPrompt = 'Data'
+    end
+  end
+end

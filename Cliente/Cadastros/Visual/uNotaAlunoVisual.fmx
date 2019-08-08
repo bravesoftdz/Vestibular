@@ -1,0 +1,36 @@
+inherited NotaAlunoFrm: TNotaAlunoFrm
+  Caption = 'Nota do aluno'
+  DesignerMasterStyle = 0
+  inherited PnlAreaCadastro: TPanel
+    object EdtIdUsuario: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Position.X = 24.000000000000000000
+      Position.Y = 24.000000000000000000
+      Size.Width = 138.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TextPrompt = 'C'#243'digo do aluno'
+    end
+    object EdtIdVestibular: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 1
+      Position.X = 24.000000000000000000
+      Position.Y = 56.000000000000000000
+      Size.Width = 138.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TextPrompt = 'C'#243'digo do vestibular'
+    end
+    object EdtNota: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 2
+      Position.X = 24.000000000000000000
+      Position.Y = 88.000000000000000000
+      Size.Width = 138.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TextPrompt = 'Nota'
+    end
+  end
+end

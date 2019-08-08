@@ -1,0 +1,32 @@
+object PrincipalFrm: TPrincipalFrm
+  Left = 0
+  Top = 0
+  Caption = 'Principal'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  DesignerMasterStyle = 0
+  object BtnNotaVestibular: TButton
+    Position.X = 200.000000000000000000
+    Position.Y = 32.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 105.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Cadastrar Nota'
+    OnClick = BtnNotaVestibularClick
+  end
+  object BtnVestibular: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 32.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 105.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Cadastrar Vestibular'
+    OnClick = BtnVestibularClick
+  end
+end
